@@ -28,6 +28,11 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../GrezzMVC" />
+    </key>
+  </component>
   <component name="RunManager" selected="PHP Built-in Web Server.GreezMVC">
     <configuration name="GreezMVC" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/../GrezzMVC/" port="5050">
       <method v="2" />
@@ -70,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588378449517</updated>
-      <workItem from="1588378450858" duration="1878000" />
+      <workItem from="1588378450858" duration="2155000" />
     </task>
     <servers />
   </component>
