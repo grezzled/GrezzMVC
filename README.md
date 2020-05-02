@@ -1,2 +1,2 @@
-# Simple-MVC
-A simple but effective PHP MVC for small projects. 
+# GrezzMVC
+A simple but effective MVC for small php Apps.
