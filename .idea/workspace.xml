@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32ca6ff9-64b6-474b-b83b-db5d354e2b8a" name="Default Changelist" comment="" />
+    <list default="true" id="32ca6ff9-64b6-474b-b83b-db5d354e2b8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/system/Routing.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/GrezzMVC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GrezzMVC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/App.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/Database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/Model.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/init.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,9 +26,26 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
     <include_path>
-      <path value="$PROJECT_DIR$/../GrezzMVC" />
+      <path value="$PROJECT_DIR$" />
     </include_path>
   </component>
   <component name="ProjectId" id="1bKQkfQX4FKGd72JCwhaEVAlheJ" />
@@ -25,42 +56,39 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GrezzMVC/SimpleTestApp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../GrezzMVC/SimpleTestApp" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/SimpleTestApp" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../GrezzMVC" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="PHP Built-in Web Server.GreezMVC">
-    <configuration name="GreezMVC" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/../GrezzMVC/SimpleTestApp" port="5050">
+    <configuration name="GreezMVC" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/" port="8080">
       <method v="2" />
     </configuration>
-    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/../GrezzMVC">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/../GrezzMVC/index.php">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/index.php">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="PHP Built-in Web Server.GreezMVC" />
       <item itemvalue="PHP Script.index.php" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="PHP Script.index.php" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -84,7 +112,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588378449517</updated>
-      <workItem from="1588378450858" duration="3738000" />
+      <workItem from="1588378450858" duration="11132000" />
+      <workItem from="1588459916791" duration="825000" />
+      <workItem from="1588472650076" duration="114000" />
     </task>
     <servers />
   </component>
@@ -96,45 +126,65 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="548" y="254" key="#CLI_Interpreters/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588380152682" />
-    <state x="560" y="257" key="#Deployment" timestamp="1588382970746">
+    <state x="337" y="261" width="1169" height="669" key="#Deployment" timestamp="1588472643549">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="560" y="257" key="#Deployment/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588382970746" />
-    <state x="651" y="177" key="#PHP" timestamp="1588380457895">
+    <state x="337" y="261" width="1169" height="669" key="#Deployment/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588472643549" />
+    <state x="560" y="277" key="#Options" timestamp="1588389819726">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="651" y="177" key="#PHP/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588380457895" />
-    <state x="424" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588382892861">
+    <state x="560" y="277" key="#Options/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588389819726" />
+    <state x="651" y="177" key="#PHP" timestamp="1588392002088">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="424" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588382892861" />
+    <state x="651" y="177" key="#PHP/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588392002088" />
+    <state x="560" y="277" key="#Plugins" timestamp="1588388809525">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="560" y="277" key="#Plugins/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588388809525" />
+    <state x="424" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588391505099">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="424" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588391505099" />
     <state x="776" y="515" key="Github.CreateGistDialog" timestamp="1588380535036">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="776" y="515" key="Github.CreateGistDialog/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588380535036" />
-    <state width="1878" height="316" key="GridCell.Tab.0.bottom" timestamp="1588383130846">
+    <state width="1878" height="316" key="GridCell.Tab.0.bottom" timestamp="1588428046229">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1878" height="316" key="GridCell.Tab.0.bottom/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588383130846" />
-    <state width="1878" height="316" key="GridCell.Tab.0.center" timestamp="1588383130846">
+    <state width="1878" height="316" key="GridCell.Tab.0.bottom/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588428046229" />
+    <state width="1878" height="316" key="GridCell.Tab.0.center" timestamp="1588428046228">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1878" height="316" key="GridCell.Tab.0.center/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588383130846" />
-    <state width="1878" height="316" key="GridCell.Tab.0.left" timestamp="1588383130845">
+    <state width="1878" height="316" key="GridCell.Tab.0.center/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588428046228" />
+    <state width="1878" height="316" key="GridCell.Tab.0.left" timestamp="1588428046227">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1878" height="316" key="GridCell.Tab.0.left/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588383130845" />
-    <state width="1878" height="316" key="GridCell.Tab.0.right" timestamp="1588383130846">
+    <state width="1878" height="316" key="GridCell.Tab.0.left/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588428046227" />
+    <state width="1878" height="316" key="GridCell.Tab.0.right" timestamp="1588428046228">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1878" height="316" key="GridCell.Tab.0.right/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588383130846" />
-    <state x="784" y="522" key="NewPhpFileDialog" timestamp="1588383104111">
+    <state width="1878" height="316" key="GridCell.Tab.0.right/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588428046228" />
+    <state x="784" y="522" key="NewPhpFileDialog" timestamp="1588472674993">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="784" y="522" key="NewPhpFileDialog/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588383104111" />
+    <state x="784" y="522" key="NewPhpFileDialog/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588472674993" />
+    <state x="809" y="517" width="408" height="216" key="WebDeployment.AddServerDialog.v.1" timestamp="1588472567005">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="809" y="517" width="408" height="216" key="WebDeployment.AddServerDialog.v.1/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588472567005" />
+    <state x="835" y="492" key="publish.login" timestamp="1588389231025">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="835" y="492" key="publish.login/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588389231025" />
     <state x="625" y="276" key="run.anything.popup" timestamp="1588380384567">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="625" y="276" key="run.anything.popup/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588380384567" />
+    <state x="625" y="278" width="670" height="676" key="search.everywhere.popup" timestamp="1588388606459">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="625" y="278" width="670" height="676" key="search.everywhere.popup/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588388606459" />
   </component>
 </project>
