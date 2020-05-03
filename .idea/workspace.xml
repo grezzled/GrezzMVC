@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32ca6ff9-64b6-474b-b83b-db5d354e2b8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/system/Routing.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/GrezzMVC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GrezzMVC.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/App.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/Controller.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/Database.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/Model.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/init.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/Routing.php" beforeDir="false" afterPath="$PROJECT_DIR$/system/Routing.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +103,7 @@
       <updated>1588378449517</updated>
       <workItem from="1588378450858" duration="11132000" />
       <workItem from="1588459916791" duration="825000" />
-      <workItem from="1588472650076" duration="114000" />
+      <workItem from="1588472650076" duration="836000" />
     </task>
     <servers />
   </component>
