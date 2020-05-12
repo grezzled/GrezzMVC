@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32ca6ff9-64b6-474b-b83b-db5d354e2b8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/system/Routing.php" beforeDir="false" afterPath="$PROJECT_DIR$/system/Routing.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +27,23 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="DB-AMS-SERVER" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="DB-AMS-SERVER" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="DB-AMS-SERVER" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="information_schema: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="Git.Settings">
@@ -44,6 +61,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -103,7 +121,11 @@
       <updated>1588378449517</updated>
       <workItem from="1588378450858" duration="11132000" />
       <workItem from="1588459916791" duration="825000" />
-      <workItem from="1588472650076" duration="836000" />
+      <workItem from="1588472650076" duration="1525000" />
+      <workItem from="1588903554561" duration="50000" />
+      <workItem from="1588956843953" duration="9000" />
+      <workItem from="1589287549888" duration="6315000" />
+      <workItem from="1589298941245" duration="88000" />
     </task>
     <servers />
   </component>
@@ -115,10 +137,12 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="548" y="254" key="#CLI_Interpreters/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588380152682" />
-    <state x="337" y="261" width="1169" height="669" key="#Deployment" timestamp="1588472643549">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state x="2166" y="466" width="1169" height="669" key="#Deployment" timestamp="1589298968076">
+      <screen x="1920" y="419" width="1440" height="838" />
     </state>
-    <state x="337" y="261" width="1169" height="669" key="#Deployment/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588472643549" />
+    <state x="253" y="192" key="#Deployment/0.23.1440.838@0.23.1440.838" timestamp="1588956849414" />
+    <state x="337" y="261" width="1169" height="669" key="#Deployment/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1589287624620" />
+    <state x="2166" y="466" key="#Deployment/1920.419.1440.838/0.23.1920.1177@1920.419.1440.838" timestamp="1589298968076" />
     <state x="560" y="277" key="#Options" timestamp="1588389819726">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
@@ -131,10 +155,15 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="560" y="277" key="#Plugins/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588388809525" />
-    <state x="424" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588391505099">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state x="2074" y="511" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589298922785">
+      <screen x="1920" y="419" width="1440" height="838" />
     </state>
     <state x="424" y="254" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588391505099" />
+    <state x="2074" y="511" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.419.1440.838/0.23.1920.1177@1920.419.1440.838" timestamp="1589298922785" />
+    <state x="2314" y="648" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589293241815">
+      <screen x="1920" y="419" width="1440" height="838" />
+    </state>
+    <state x="2314" y="648" key="#com.intellij.fileTypes.FileTypeChooser/1920.419.1440.838/0.23.1920.1177@1920.419.1440.838" timestamp="1589293241815" />
     <state x="776" y="515" key="Github.CreateGistDialog" timestamp="1588380535036">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
@@ -163,6 +192,14 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="809" y="517" width="408" height="216" key="WebDeployment.AddServerDialog.v.1/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588472567005" />
+    <state x="653" y="424" key="com.intellij.ide.util.TipDialog" timestamp="1588903557348">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="653" y="424" key="com.intellij.ide.util.TipDialog/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588903557348" />
+    <state x="2518" y="564" key="ftp.server.browser" timestamp="1589298594605">
+      <screen x="1920" y="419" width="1440" height="838" />
+    </state>
+    <state x="2518" y="564" key="ftp.server.browser/1920.419.1440.838/0.23.1920.1177@1920.419.1440.838" timestamp="1589298594605" />
     <state x="835" y="492" key="publish.login" timestamp="1588389231025">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
