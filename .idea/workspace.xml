@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32ca6ff9-64b6-474b-b83b-db5d354e2b8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copyright/Grezzled.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/owner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/system/.htaccess" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,23 +32,7 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="DB-AMS-SERVER" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="DB-AMS-SERVER" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="DB-AMS-SERVER" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="information_schema: schema" type="76f4a085:MysqlImplModel$Schema" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="Git.Settings">
@@ -70,19 +59,20 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/system" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="copyright.profiles" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/system" />
       <recent name="$PROJECT_DIR$/app" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/SimpleTestApp" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunManager" selected="PHP Built-in Web Server.GreezMVC">
@@ -126,6 +116,7 @@
       <workItem from="1588956843953" duration="9000" />
       <workItem from="1589287549888" duration="6315000" />
       <workItem from="1589298941245" duration="88000" />
+      <workItem from="1589314162840" duration="3033000" />
     </task>
     <servers />
   </component>
@@ -137,16 +128,18 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="548" y="254" key="#CLI_Interpreters/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588380152682" />
-    <state x="2166" y="466" width="1169" height="669" key="#Deployment" timestamp="1589298968076">
-      <screen x="1920" y="419" width="1440" height="838" />
+    <state x="328" y="87" width="1169" height="669" key="#Deployment" timestamp="1589314835156">
+      <screen x="0" y="23" width="1920" height="1138" />
     </state>
     <state x="253" y="192" key="#Deployment/0.23.1440.838@0.23.1440.838" timestamp="1588956849414" />
     <state x="337" y="261" width="1169" height="669" key="#Deployment/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1589287624620" />
     <state x="2166" y="466" key="#Deployment/1920.419.1440.838/0.23.1920.1177@1920.419.1440.838" timestamp="1589298968076" />
-    <state x="560" y="277" key="#Options" timestamp="1588389819726">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state x="328" y="87" key="#Deployment/1920.419.1440.877/0.23.1920.1138@0.23.1920.1138" timestamp="1589314835156" />
+    <state x="560" y="269" key="#Options" timestamp="1589315803505">
+      <screen x="0" y="23" width="1920" height="1138" />
     </state>
     <state x="560" y="277" key="#Options/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588389819726" />
+    <state x="560" y="269" key="#Options/1920.419.1440.877/0.23.1920.1138@0.23.1920.1138" timestamp="1589315803505" />
     <state x="651" y="177" key="#PHP" timestamp="1588392002088">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
@@ -164,30 +157,43 @@
       <screen x="1920" y="419" width="1440" height="838" />
     </state>
     <state x="2314" y="648" key="#com.intellij.fileTypes.FileTypeChooser/1920.419.1440.838/0.23.1920.1177@1920.419.1440.838" timestamp="1589293241815" />
+    <state x="100" y="123" width="1720" height="938" key="DiffContextDialog" timestamp="1589315780801">
+      <screen x="0" y="23" width="1920" height="1138" />
+    </state>
+    <state x="100" y="123" width="1720" height="938" key="DiffContextDialog/1920.419.1440.877/0.23.1920.1138@0.23.1920.1138" timestamp="1589315780801" />
     <state x="776" y="515" key="Github.CreateGistDialog" timestamp="1588380535036">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="776" y="515" key="Github.CreateGistDialog/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588380535036" />
-    <state width="1878" height="316" key="GridCell.Tab.0.bottom" timestamp="1588428046229">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom" timestamp="1589315789028">
+      <screen x="0" y="23" width="1920" height="1138" />
     </state>
     <state width="1878" height="316" key="GridCell.Tab.0.bottom/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588428046229" />
-    <state width="1878" height="316" key="GridCell.Tab.0.center" timestamp="1588428046228">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state width="1878" height="303" key="GridCell.Tab.0.bottom/1920.419.1440.877/0.23.1920.1138@0.23.1920.1138" timestamp="1589315789028" />
+    <state width="1878" height="303" key="GridCell.Tab.0.center" timestamp="1589315789027">
+      <screen x="0" y="23" width="1920" height="1138" />
     </state>
     <state width="1878" height="316" key="GridCell.Tab.0.center/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588428046228" />
-    <state width="1878" height="316" key="GridCell.Tab.0.left" timestamp="1588428046227">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state width="1878" height="303" key="GridCell.Tab.0.center/1920.419.1440.877/0.23.1920.1138@0.23.1920.1138" timestamp="1589315789027" />
+    <state width="1878" height="303" key="GridCell.Tab.0.left" timestamp="1589315789026">
+      <screen x="0" y="23" width="1920" height="1138" />
     </state>
     <state width="1878" height="316" key="GridCell.Tab.0.left/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588428046227" />
-    <state width="1878" height="316" key="GridCell.Tab.0.right" timestamp="1588428046228">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state width="1878" height="303" key="GridCell.Tab.0.left/1920.419.1440.877/0.23.1920.1138@0.23.1920.1138" timestamp="1589315789026" />
+    <state width="1878" height="303" key="GridCell.Tab.0.right" timestamp="1589315789027">
+      <screen x="0" y="23" width="1920" height="1138" />
     </state>
     <state width="1878" height="316" key="GridCell.Tab.0.right/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588428046228" />
-    <state x="784" y="522" key="NewPhpFileDialog" timestamp="1588472674993">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state width="1878" height="303" key="GridCell.Tab.0.right/1920.419.1440.877/0.23.1920.1138@0.23.1920.1138" timestamp="1589315789027" />
+    <state x="784" y="505" key="NewPhpFileDialog" timestamp="1589316715807">
+      <screen x="0" y="23" width="1920" height="1138" />
     </state>
     <state x="784" y="522" key="NewPhpFileDialog/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588472674993" />
+    <state x="784" y="505" key="NewPhpFileDialog/1920.419.1440.877/0.23.1920.1138@0.23.1920.1138" timestamp="1589316715807" />
+    <state x="469" y="231" width="1146" height="722" key="SettingsEditor" timestamp="1589317154233">
+      <screen x="0" y="23" width="1920" height="1138" />
+    </state>
+    <state x="469" y="231" width="1146" height="722" key="SettingsEditor/1920.419.1440.877/0.23.1920.1138@0.23.1920.1138" timestamp="1589317154233" />
     <state x="809" y="517" width="408" height="216" key="WebDeployment.AddServerDialog.v.1" timestamp="1588472567005">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
@@ -208,9 +214,10 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="625" y="276" key="run.anything.popup/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588380384567" />
-    <state x="625" y="278" width="670" height="676" key="search.everywhere.popup" timestamp="1588388606459">
-      <screen x="0" y="23" width="1920" height="1177" />
+    <state x="625" y="270" width="670" height="654" key="search.everywhere.popup" timestamp="1589317195210">
+      <screen x="0" y="23" width="1920" height="1138" />
     </state>
     <state x="625" y="278" width="670" height="676" key="search.everywhere.popup/1920.419.1440.838/0.23.1920.1177@0.23.1920.1177" timestamp="1588388606459" />
+    <state x="625" y="270" width="670" height="654" key="search.everywhere.popup/1920.419.1440.877/0.23.1920.1138@0.23.1920.1138" timestamp="1589317195210" />
   </component>
 </project>
